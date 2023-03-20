@@ -1,5 +1,7 @@
 #include <stdio.h>
 /*
+ * Desciption: main - prints string
+ * Return: 00 success
  * Using puts to output text 
  */
 int main(void)
