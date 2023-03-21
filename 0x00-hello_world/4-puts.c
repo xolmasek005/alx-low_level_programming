@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  * Description: main - prints string
- * Return: 0 if success
- * Using puts to output text 
+ * Return: 0 if success 
  */
 int main(void)
 {
