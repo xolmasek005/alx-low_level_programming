@@ -1,6 +1,8 @@
 #include <stdio.h>
-//main is the strating point
-//return zero if success
+/*
+ * main is the strating point
+ * return zero if success
+ */
 int main(void){
 printf("Size of a char: %d byte(s)\n", sizeof(char))
 printf("Size of an int : %d byte(s)\n", sizeof(int))
