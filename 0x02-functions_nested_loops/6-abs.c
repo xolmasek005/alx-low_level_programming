@@ -2,6 +2,7 @@
 
 /**
  * _abs - find absolute value of n
+ * n - integer
  * Return: int
  */
 

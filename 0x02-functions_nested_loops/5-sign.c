@@ -2,6 +2,7 @@
 
 /**
  * print_sign - checks the positive, zero or negative state of an integer 
+ * n - integer
  * Return: 1 positive, 0 == 0 and -1 = negative
  */
 
