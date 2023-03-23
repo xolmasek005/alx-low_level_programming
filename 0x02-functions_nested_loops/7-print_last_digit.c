@@ -2,6 +2,7 @@
 
 /**
  * print_last_digit - find n == last digit
+ * @n: integer
  * Return: int
  */
 

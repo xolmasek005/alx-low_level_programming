@@ -2,7 +2,7 @@
 
 /**
  * _abs - find absolute value of n
- * n - integer
+ * @n: integer
  * Return: int
  */
 
