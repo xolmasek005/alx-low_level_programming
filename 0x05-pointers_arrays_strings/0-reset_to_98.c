@@ -2,9 +2,12 @@
 #include <stdio>
 
 /*
- *
+ * reset_to_98 - pointer to int as param. and uptades
+ * @n: pointer
+ * Return: null/void
  */
-void rest_to_98(int *n)
+
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
