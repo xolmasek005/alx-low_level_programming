@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strlen - return the long from a string
  *  @s: pointer
