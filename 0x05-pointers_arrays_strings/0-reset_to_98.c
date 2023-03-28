@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio>
 
 /*
  * reset_to_98 - pointer to int as param. and uptades
