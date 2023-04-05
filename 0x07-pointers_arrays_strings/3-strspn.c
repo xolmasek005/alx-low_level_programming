@@ -9,12 +9,13 @@
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int i = 0;
+	int bool = 1;
 
 	while (*(s + i) != '\0' && bool)
 	{
-		unsigned int j = 0;
+		int j = 0;
 
-		int bool = 1;
+		bool = 1;
 
 		while (*(accept + j) != '\0')
 		{
@@ -27,7 +28,7 @@ unsigned int _strspn(char *s, char *accept)
 		}
 
 		if (bool)
-			return (i);
+			break;
 		i++;
 	}
 
