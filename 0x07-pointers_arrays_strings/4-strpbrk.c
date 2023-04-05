@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strpbrk - Start
  * @s: initial segment.
