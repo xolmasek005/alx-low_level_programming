@@ -4,6 +4,7 @@
  * _puts_recursion - this is the recursive function that acts as  put()
  * @s: input for string
  * Return: 0 on success
+ * Description: this does something
  */
 void _puts_recursion(char *s)
 {
