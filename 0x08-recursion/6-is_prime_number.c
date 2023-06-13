@@ -20,5 +20,5 @@ int prime(int n, int x)
 	{
 		return (1);
 	}
-	return (prime);
+	return (prime(n, x-1));
 }
